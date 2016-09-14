@@ -1,1 +1,0 @@
-scala C:\Users\max_2\IdeaProjects\math_pro\out\artifacts\math_pro_jar\math_pro.jar d(x*sin(x))/d(x)

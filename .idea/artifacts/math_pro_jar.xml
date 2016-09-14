@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="math_pro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/math_pro_jar</output-path>
+    <root id="archive" name="math_pro.jar">
+      <element id="module-output" name="math_pro" />
+      <element id="library" level="project" name="scala-sdk-2.10.4" />
+    </root>
+  </artifact>
+</component>
